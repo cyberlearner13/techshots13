@@ -1,0 +1,11 @@
+pyperclip
+
+requests
+
+beautifulSoup4
+
+selenium
+
+openpyxl
+
+PyPDF2
